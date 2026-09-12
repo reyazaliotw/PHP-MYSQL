@@ -1,0 +1,76 @@
+PHP-MYSQL CLASS ATTENDANCE (24-AUG-2026 TO 09-SEP-2026)
+Total Classes Held: 7
+
+S.No Roll No   24-Aug   25-Aug   31-Aug   01-Sep   07-Sep   08-Sep   09-Sep   Present  %      
+----------------------------------------------------------------------------------------------
+SERIES 250
+1    250400    A        A        P        A        A        A        A        1        14.3%  
+2    250401    P        P        A        A        A        A        A        2        28.6%  
+3    250402    P        P        P        P        P        P        P        7        100.0% 
+4    250403    A        A        A        A        P        A        A        1        14.3%  
+5    250404    P        P        A        P        A        A        A        3        42.9%  
+6    250406    P        P        A        A        A        A        A        2        28.6%  
+7    250407    P        P        P        P        A        A        A        4        57.1%  
+8    250408    P        P        P        P        A        A        A        4        57.1%  
+9    250409    P        P        A        A        A        A        A        2        28.6%  
+10   250411    P        P        P        P        P        P        A        6        85.7%  
+11   250413    P        P        P        P        P        P        A        6        85.7%  
+12   250414    P        P        A        A        A        A        A        2        28.6%  
+13   250416    A        A        A        P        P        P        A        3        42.9%  
+14   250420    P        P        P        P        P        P        A        6        85.7%  
+15   250422    A        A        A        P        A        A        A        1        14.3%  
+16   250424    P        P        P        P        P        P        P        7        100.0% 
+17   250427    P        P        A        P        P        A        A        4        57.1%  
+18   250429    P        A        A        A        A        A        A        1        14.3%  
+19   250430    P        P        A        A        P        A        P        4        57.1%  
+20   250432    A        A        P        P        P        P        P        5        71.4%  
+21   250433    P        P        A        A        P        P        A        4        57.1%  
+22   250435    P        P        P        P        P        A        P        6        85.7%  
+23   250439    P        P        P        P        P        A        A        5        71.4%  
+24   250441    P        P        P        P        P        A        A        5        71.4%  
+25   250442    P        P        P        P        P        P        A        6        85.7%  
+26   250443    A        A        P        A        P        P        A        3        42.9%  
+27   250445    P        P        P        P        P        A        P        6        85.7%  
+28   250448    P        P        A        A        A        A        A        2        28.6%  
+29   250452    P        P        A        A        A        A        A        2        28.6%  
+30   250453    P        P        A        A        A        A        A        2        28.6%  
+31   250456    P        P        P        P        P        P        P        7        100.0% 
+32   250460    P        P        P        P        P        P        P        7        100.0% 
+33   250461    A        A        A        P        P        P        A        3        42.9%  
+34   250469    A        A        A        A        P        P        A        2        28.6%  
+35   250475    P        P        P        P        P        A        P        6        85.7%  
+36   250480    A        A        A        P        P        A        A        2        28.6%  
+37   250481    P        P        A        A        A        A        A        2        28.6%  
+38   250482    A        A        P        P        P        A        P        4        57.1%  
+39   250489    P        P        A        A        P        P        A        4        57.1%  
+40   250497    A        A        P        A        A        A        A        1        14.3%  
+41   250639    A        A        P        A        A        A        A        1        14.3%  
+
+SERIES 252
+42   252101    P        P        P        P        A        A        A        4        57.1%  
+43   252109    P        P        P        P        A        P        P        6        85.7%  
+44   252115    A        A        A        A        A        P        A        1        14.3%  
+45   252318    P        P        P        P        A        P        A        5        71.4%  
+46   252610    P        P        A        A        A        P        A        3        42.9%  
+47   252618    P        P        P        P        A        P        P        6        85.7%  
+48   252622    P        P        P        P        A        P        A        5        71.4%  
+49   252744    A        A        A        A        A        P        A        1        14.3%  
+
+SERIES 253
+50   253303    A        A        P        P        A        P        A        3        42.9%  
+51   253306    A        A        P        P        A        A        P        3        42.9%  
+52   253307    A        A        P        P        A        A        A        2        28.6%  
+53   253311    A        A        A        A        A        P        P        2        28.6%  
+54   253313    P        P        A        A        A        A        A        2        28.6%  
+55   253315    A        A        A        A        A        P        A        1        14.3%  
+56   253323    A        A        P        P        A        A        A        2        28.6%  
+57   253324    A        A        P        P        A        A        A        2        28.6%  
+58   253325    P        P        A        A        A        A        A        2        28.6%  
+59   253331    A        A        A        A        A        P        P        2        28.6%  
+60   253339    A        A        P        P        A        A        A        2        28.6%  
+
+SERIES 450
+61   450460    P        P        A        A        A        A        A        2        28.6%  
+
+----------------------------------------------------------------------------------------------
+Total Students: 61
